@@ -1,0 +1,15 @@
+accelerate
+chromadb
+fastapi
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+numpy
+pandas
+python-dotenv
+pydantic
+sentence-transformers
+torch
+transformers
+uvicorn

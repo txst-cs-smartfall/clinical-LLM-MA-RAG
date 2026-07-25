@@ -13,3 +13,4 @@ sentence-transformers
 torch
 transformers
 uvicorn
+gradio

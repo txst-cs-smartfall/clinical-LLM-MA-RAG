@@ -11,6 +11,42 @@
 
 **Preprint:** Coming Soon... <!-- [Read the paper here](https://arxiv.org/abs/XXXXXXXX) --> 
 
+## Project Structure
+
+```text
+├── app/
+│   ├── agents/                 # Clinical reasoning agents
+│   │   ├── __init__.py
+│   │   ├── adl.py
+│   │   ├── cohort.py
+│   │   ├── comparison.py
+│   │   ├── final.py
+│   │   ├── motor.py
+│   │   ├── nonmotor.py
+│   │   ├── planner.py
+│   │   ├── qol.py
+│   │   └── router.py
+│   ├── context/                # Label maps and scale definitions
+│   │   ├── label_maps.py
+│   │   └── scale_contexts.py
+│   ├── retrieval/              # Data access and loading
+│   │   ├── db.py
+│   │   └── loader.py
+│   ├── utils/                  # Shared utilities
+│   │   ├── formatting.py
+│   │   ├── parsing.py
+│   │   ├── scoring.py
+│   │   └── graph.py
+│   ├── llm.py                  # LLM interface
+│   ├── run.py                  # Core pipeline entry point
+│   └── state.py                # Agent state definitions
+├── knowledge_base/
+│   └── clinical_agentic_db/    # ChromaDB for MA‑RAG
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── run_ma_rag_gradio.py        # Gradio UI launcher
+```
 
 ## Running the Gradio Interface
 

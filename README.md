@@ -1,4 +1,4 @@
-# Multi-Agentic Retrieval-Augmented Generation for Longitudinal Summarization of Multimodal Clinical Assessment Reports (MA-RAG)
+# MA-RAG: Multi-Agent Retrieval-Augmented Generation for Query-Driven Summarization of Longitudinal Parkinson's Disease Assessments
 
 **MA-RAG** is a multi-agent retrieval-augmented generation framework for generating factually grounded longitudinal clinical summaries from multimodal assessment reports. The framework decomposes clinical reasoning into domain-specialized agents, combines structured fact extraction with deterministic score computation, and synthesizes verified summaries for four clinical analysis tasks: **Single-Session**, **Trajectory**, **Comparison**, and **Cohort** analysis. MA-RAG is designed to improve the factual reliability and clinical utility of LLM-generated summaries while reducing hallucinations during longitudinal clinical reasoning.
 

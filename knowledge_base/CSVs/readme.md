@@ -1,4 +1,4 @@
-# Clinician Summary CSVs
+# CSVs of UPDRS and PDQ-8 comprising the assessment records with their summaries
 
 This folder contains raw clinician-generated summaries exported as CSV files. The files are organized by instrument and by comparison type.
 

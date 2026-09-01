@@ -107,16 +107,18 @@ For questions, suggestions, or collaborations, please contact:
 ---
 
 ## Citation
-Coming soon...
-<!--
+
 If you use this repository in your research, please cite:
 
 ```bibtex
-@article{alamgeer2026marag,
-  title={Multi-Agentic Retrieval-Augmented Generation for Longitudinal Summarization of Multimodal Clinical Assessment Reports},
-  author={Alamgeer, Sana and ...},
-  journal={},
-  year={2026}
+@misc{alamgeer2026MARAG,
+      title={MA-RAG: Multi-Agent Retrieval-Augmented Generation for Query-Driven Summarization of Longitudinal Parkinson's Disease Assessments}, 
+      author={Sana Alamgeera and Denise Goberta and Muhammad Irshad and Anne H. H. Ngu},
+      year={2026},
+      eprint={2608.28624},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2608.28624}, 
 }
 ```
--->
+

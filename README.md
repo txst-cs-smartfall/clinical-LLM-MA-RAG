@@ -9,7 +9,7 @@
 
 ---
 
-**Preprint:** Coming Soon... <!-- [Read the paper here](https://arxiv.org/abs/XXXXXXXX) --> 
+**Preprint:** [ArXiv](https://arxiv.org/abs/2608.28624)
 
 ## Project Structure
 

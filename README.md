@@ -2,14 +2,14 @@
 
 **MA-RAG** is a multi-agent retrieval-augmented generation framework for generating factually grounded longitudinal clinical summaries from multimodal assessment reports. The framework decomposes clinical reasoning into domain-specialized agents, combines structured fact extraction with deterministic score computation, and synthesizes verified summaries for four clinical analysis tasks: **Single-Session**, **Trajectory**, **Comparison**, and **Cohort** analysis. MA-RAG is designed to improve the factual reliability and clinical utility of LLM-generated summaries while reducing hallucinations during longitudinal clinical reasoning.
 
+**Preprint:** [ArXiv](https://arxiv.org/abs/2608.28624)
+
 | System Overview | Gradio Interface |
 |:---------------:|:----------------:|
 | <img src="images/flowchart.png" width="450"> | <img src="images/gradio.png" width="450"> |
 | **Figure 1.** Overview of the proposed MA-RAG framework. | **Figure 2.** Interactive Gradio interface for clinical summarization. |
 
 ---
-
-**Preprint:** [ArXiv](https://arxiv.org/abs/2608.28624)
 
 ## Project Structure
 
